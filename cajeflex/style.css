@@ -1,0 +1,39 @@
+header {
+
+    background-color: rgb(255, 138, 185);
+}
+
+.columnas {
+
+    background-color: rgb(255, 204, 235);
+
+}
+
+.Trabajos {
+
+    background-color:rgb(255, 204, 234)
+}
+
+h1 {
+
+    background-color: rgb(173, 29, 111);
+    color: aliceblue;
+}
+
+.contacto {
+
+    color:rgb(255, 0, 144)
+    
+}
+
+.yo { 
+
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 40px;
+
+}
+
+
+
